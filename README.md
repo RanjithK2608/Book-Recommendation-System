@@ -1,4 +1,4 @@
-**Book-Recomendation-Sytem**
+**BOOK RECOMMENDATION SYSTEM**
 
 **Objective:**
   The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
@@ -10,11 +10,11 @@ Descriptive Statistics Data Visualization Machine Learning
 Python Pandas Numpy Matplotlib Seaborn Scikit-learn Surprise
 
 **Algorithms Implemented:**
-Popularity Based Filtering
-Corelation Based Recommendation System
-KNN Based Recommendation System
-SVD Based Recommendation System
-Content Based Recommendation System
+1) Popularity Based Filtering
+2) Corelation Based Recommendation System
+3) KNN Based Recommendation System
+4) SVD Based Recommendation System
+5) Content Based Recommendation System
 
 **Data:**
 The Book-Crossing dataset comprises 3 files.
