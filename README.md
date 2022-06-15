@@ -25,6 +25,7 @@ Books : Books are identified by their respective ISBN. Invalid ISBNs have alread
 Ratings : Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
 CONCLUSION:
+
 ● Recommendation system is unturned to exist in the e-commerce businesses with the help of collaborative or content-based filtering to predict different items and yes, users are most satisfied with the products recommended to them.
 
 ● Books with publication years are somewhat between 1950 - 2005.
