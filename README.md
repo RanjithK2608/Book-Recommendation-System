@@ -16,7 +16,7 @@ Python Pandas Numpy Matplotlib Seaborn Scikit-learn Surprise.
 4) SVD Based Recommendation System
 5) Content Based Recommendation System
 
-**Data:**
+**Data**:
 The Book-Crossing dataset comprises 3 files.
 
 **1) Users** : Contains the users. Note that user IDs (User-ID) have been anonymized and map to integers. Demographic data is provided (Location, Age) if available. Otherwise, these fields contain NULL values.
