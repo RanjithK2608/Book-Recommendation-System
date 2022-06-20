@@ -7,7 +7,7 @@
 Descriptive Statistics Data Visualization Machine Learning
 
 **Technologies:**
-Python Pandas Numpy Matplotlib Seaborn Scikit-learn Surprise
+Python Pandas Numpy Matplotlib Seaborn Scikit-learn Surprise.
 
 **Algorithms Implemented:**
 1) Popularity Based Filtering
