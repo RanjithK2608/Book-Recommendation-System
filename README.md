@@ -37,4 +37,4 @@ The Book-Crossing dataset comprises 3 files.
 
 ● KNN model gives good recommendation for books.
 
-● The best collaborative book recommender model is SVD(Singular value decomposition) with best accuracy on test data which give stronger recommendations. These results show that our proposed system can remove boring books from the recommendation list more efficiently
+● The best collaborative book recommender model is SVD(Singular value decomposition) with best accuracy on test data which give stronger recommendations. These results show that our proposed system can remove boring books from the recommendation list more efficiently.
